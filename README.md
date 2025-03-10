@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @marklonks
-- 👀 I’m interested in .your git..
-- 🌱 I’m currently learning .git.
+- 👀 I’m interested in..your.git..
+- 🌱 I’m currently learning..git.
 - 💞️ I’m looking to collaborate on ..git.
-- 📫 How to reach me ..via git.
+- 📫 How to reach me ..via.git.
 - 😄 Pronouns: .GIT..
 - ⚡ Fun fact: ..love git.
 
